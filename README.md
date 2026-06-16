@@ -65,6 +65,6 @@ Applied programming concepts to solve practical problems:
 - Learned how to:
   - Break down problems into step-by-step solutions  
   - Implement program flow using conditions and loops  
-  - Handle user input and errors effectively  
+  - Handle user input and errors effectively 
 
 
